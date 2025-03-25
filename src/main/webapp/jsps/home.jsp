@@ -10,7 +10,7 @@ ber<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding=
 </head>
 <body>
 <h1 align="center">Welcome to Mithun Technologies. Ph No: +91-9980923226,+91-9014996877 new batch will start from november 11 2024</h1>
-<h1 align="center"> Mithun Technologies- Very Good Training center for DevOps & Cloud, Python, Java & Node JS </h1>
+<h1 align="center"> Mithun Technologies- Very Good Training center for DevOps & Cloud, Python, Java & Node JS. </h1>
 
 <h2> Trainer Name: Bhaskar  Reddy Lacchannagari</h2>
 <hr>
