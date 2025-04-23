@@ -51,6 +51,6 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
 <p align=center><small>Copyrights 2025 by <a href="http://mithuntechnologies.com/">Mithun Technologies,Bengaluru</a> </small></p>
-<p> hi </p>
+<p> hi how are u</p>
 </body>
 </html>
