@@ -1,5 +1,5 @@
 node {
-    echo "Job name is: ${env.JOB_NAME}"
+   echo "Job name is: ${env.JOB_NAME}"
     echo "Build number is: ${env.BUILD_NUMBER}"
     echo "Node name is: ${env.NODE_NAME}"
     echo "jenkins home dir is:{env.JENKINS_HOME}"
