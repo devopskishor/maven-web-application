@@ -1,4 +1,4 @@
-node {
+node('nodes'){
 
 properties([buildDiscarder(logRotator(artifactDaysToKeepStr: '1', artifactNumToKeepStr: '5', daysToKeepStr: '1', numToKeepStr: '5')), pipelineTriggers([pollSCM('* * * * *')])])
    echo "Job name is: ${env.JOB_NAME}"
