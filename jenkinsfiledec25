@@ -20,7 +20,7 @@ properties([buildDiscarder(logRotator(artifactDaysToKeepStr: '1', artifactNumToK
     }
     stage('Deploy App In Tomcat Server') {
         sshagent(['01cefffb-cfda-40a3-a07a-c3b89a9ebc2d']) {
-            sh "scp -o StrictHostKeyChecking=no target/maven-web-application.war ec2-user@3.109.121.123:/opt/tomcat/webapps/"
+            sh "scp -o StrictHostKeyChecking=no target/maven-web-application.war ec2-user@3.108.63.183:/opt/tomcat/webapps/"
         }
     }
 }
